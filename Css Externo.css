@@ -1,0 +1,27 @@
+    .A {
+    background-color: #ff5a00;
+    width: 500px;
+    height: 500px;
+    }
+    .B{
+    background-color: #67cb57;
+    width: 50%;
+    height: 50%;
+    }
+    .C{
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: 1000;
+    }
+    .D{
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(4, 179, 248);
+    }
+    .E{
+    width: 75vh;
+    height: 50%;
+    background-color: rgb(223, 1, 1);
+    }
